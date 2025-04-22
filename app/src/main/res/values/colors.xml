@@ -1,0 +1,6 @@
+<resources>
+    <color name="background">#121212</color>
+    <color name="button_number">#2B2B2B</color>
+    <color name="button_operator">#FF9500</color>
+    <color name="text_default">#FFFFFF</color>
+</resources>
